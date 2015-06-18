@@ -42,4 +42,5 @@ gem 'rails_12factor', group: :production
 gem 'puma'
 
 gem 'devise'
+gem 'foundation-rails'
 
